@@ -151,8 +151,11 @@ public class HealthSummary {
 
                         duration = Duration.between(wakeDateTimeData, bedDateTimeData);
                         hoursSlept = duration.toString();
+
+
                         System.out.println("Duration slept: " + hoursSlept);
                         if (hoursSlept.split("-").length == 2) {
+                            totalTimeSlept=0;
                             String totalSleep = hoursSlept.split("-")[1];
                             String[] separateTimeData = totalSleep.split("H");
                             int hoursToMinutesSlept = Integer.parseInt(separateTimeData[0]) * 60;
@@ -286,8 +289,10 @@ public class HealthSummary {
 
                         Duration duration = Duration.between(wakeDateTimeData, bedDateTimeData);
                         hoursSlept = duration.toString();
+
 //                        System.out.println("Duration slept: " + hoursSlept);
                         if (hoursSlept.split("-").length == 2) {
+                            totalTimeSlept = 0;
                             String totalSleep = hoursSlept.split("-")[1];
                             String[] separateTimeData = totalSleep.split("H");
                             int hoursToMinutesSlept = Integer.parseInt(separateTimeData[0]) * 60;
