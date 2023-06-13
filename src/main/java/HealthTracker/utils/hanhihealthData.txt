@@ -1,0 +1,10 @@
+Food Log Data; User: hanhi; Date: 2023-06-12; Food Name: yogurt; Caloric Intake: 200
+Food Log Data; User: hanhi; Date: 2023-06-12; Food Name: spaghetti; Caloric Intake: 400
+Food Log Data; User: hanhi; Date: 2023-06-12; Food Name: smoothie; Caloric Intake: 150
+Exercise Log Data; User: hanhi; Date: 2023-06-12; Exercise Type: YOGA; Exercise Time: 60; Calories Burned: 200
+Sleep Log Data; User: hanhi; Went to Bed: 2023-06-10T22:00; Woke up: 2023-06-11T08:00
+Sleep Log Data; User: hanhi; Went to Bed: 2023-06-11T23:30; Woke up: 2023-06-12T06:00
+Food Log Data; User: hanhi; Date: 2023-06-12; Food Name: granola; Caloric Intake: 50
+Exercise Log Data; User: hanhi; Date: 2023-06-11; Exercise Type: CARDIO; Exercise Time: 90; Calories Burned: 300
+Food Log Data; User: hanhi; Date: 2023-06-11; Food Name: spaghetti; Caloric Intake: 500
+
